@@ -10,12 +10,15 @@
 *{
     margin: 0;
     padding: 0;
+
 }
 
 header{
     display: flex;
     gap: 321px;
 }
+
+
 
 .logo{
     font-size: 42px;
